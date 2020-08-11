@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Parking Lot/task" />
+            <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Car price" />
+            <option value="$PROJECT_DIR$/Problems/Car speed" />
+            <option value="$PROJECT_DIR$/Problems/Check a code" />
+            <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Problems/Check length" />
+            <option value="$PROJECT_DIR$/Problems/Closed case" />
+            <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
+            <option value="$PROJECT_DIR$/Problems/Delegation" />
+            <option value="$PROJECT_DIR$/Problems/Deposit" />
+            <option value="$PROJECT_DIR$/Problems/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Exabytes" />
+            <option value="$PROJECT_DIR$/Problems/Find the max" />
+            <option value="$PROJECT_DIR$/Problems/Fix a bug" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems/Fourth root" />
+            <option value="$PROJECT_DIR$/Problems/Fridge" />
+            <option value="$PROJECT_DIR$/Problems/Gratuity" />
+            <option value="$PROJECT_DIR$/Problems/Greeting" />
+            <option value="$PROJECT_DIR$/Problems/Groundhogs at the party" />
+            <option value="$PROJECT_DIR$/Problems/Handle number format exception" />
+            <option value="$PROJECT_DIR$/Problems/Harry Potter" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Kotlin" />
+            <option value="$PROJECT_DIR$/Problems/House inheritance" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Interval" />
+            <option value="$PROJECT_DIR$/Problems/LCM" />
+            <option value="$PROJECT_DIR$/Problems/Last digit" />
+            <option value="$PROJECT_DIR$/Problems/Latte" />
+            <option value="$PROJECT_DIR$/Problems/Line length" />
+            <option value="$PROJECT_DIR$/Problems/Matching" />
+            <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Problems/Number of cups" />
+            <option value="$PROJECT_DIR$/Problems/Palindrome" />
+            <option value="$PROJECT_DIR$/Problems/Percentage" />
+            <option value="$PROJECT_DIR$/Problems/Perimeter" />
+            <option value="$PROJECT_DIR$/Problems/Polynomial" />
+            <option value="$PROJECT_DIR$/Problems/Pretty output" />
+            <option value="$PROJECT_DIR$/Problems/Rainbow colors" />
+            <option value="$PROJECT_DIR$/Problems/Reverse me if you can" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/Simple expression" />
+            <option value="$PROJECT_DIR$/Problems/String length" />
+            <option value="$PROJECT_DIR$/Problems/Summation" />
+            <option value="$PROJECT_DIR$/Problems/Swap elements" />
+            <option value="$PROJECT_DIR$/Problems/Tea" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Problems/The max of three numbers" />
+            <option value="$PROJECT_DIR$/Problems/The number of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of three numbers" />
+            <option value="$PROJECT_DIR$/Problems/URL" />
+            <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Problems/copy() usage" />
+            <option value="$PROJECT_DIR$/Problems/equals() check" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
